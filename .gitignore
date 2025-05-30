@@ -1,0 +1,23 @@
+# MinIO Playground
+minio-playground/
+
+# Environment files
+.env
+*.env.local
+
+# Data directories
+data/
+minio-data/
+
+# Logs
+*.log
+logs/
+
+# Certificates
+*.pem
+*.crt
+*.key
+
+# Temporary files
+tmp/
+temp/
